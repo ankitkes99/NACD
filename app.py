@@ -4,6 +4,7 @@ from gensim import utils
 import gensim.parsing.preprocessing as gsp
 import spacy
 import numpy as np
+import sklearn
 
 
 app=Flask(__name__)
